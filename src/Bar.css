@@ -1,0 +1,19 @@
+.breed-container {
+    width: 28%;
+    height: 90%;
+    overflow: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.breed {
+    margin: 5px 10px;
+    font-size: 14px;
+    padding: 5px;
+    color: #3a3a3a;
+    cursor: pointer;
+    flex: 1 1 auto;
+    text-align: center;
+    border-radius: 4px;
+    border: 1px solid #3a3a3a;
+}
